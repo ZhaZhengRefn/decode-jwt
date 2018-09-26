@@ -1,0 +1,23 @@
+{
+  "name": "decode-jwt",
+  "version": "1.0.0",
+  "description": "decode jwt",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhaZhengRefn/decode-jwt.git"
+  },
+  "keywords": [
+    "decode",
+    "jwt"
+  ],
+  "author": "zheng_refn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhaZhengRefn/decode-jwt/issues"
+  },
+  "homepage": "https://github.com/ZhaZhengRefn/decode-jwt#readme",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
