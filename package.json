@@ -1,6 +1,6 @@
 {
   "name": "decode-jwt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "decode jwt",
   "main": "index.js",
   "repository": {
