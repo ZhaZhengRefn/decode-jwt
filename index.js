@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const argv = require('yargs').argv
 
 const err = () => console.log(`>>>>>[decode-jwt]: please input your jwt.`)
