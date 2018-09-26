@@ -1,6 +1,6 @@
 {
   "name": "decode-jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "decode jwt",
   "main": "index.js",
   "repository": {
@@ -15,6 +15,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ZhaZhengRefn/decode-jwt/issues"
+  },
+  "bin": {
+    "jwt": "./index.js"
   },
   "homepage": "https://github.com/ZhaZhengRefn/decode-jwt#readme",
   "dependencies": {
